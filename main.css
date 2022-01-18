@@ -137,10 +137,6 @@ img{
     padding-top: 30px;
 }
 
-.navigation{
-    background-image: url(../images/hero_img.png);
-}
-
 .nav{
     display: flex;
     justify-content: space-around;
@@ -176,7 +172,7 @@ img{
 .hero .container{
     height: 700px;
     padding-top: 20px;
-    background-image: url(../images/hero_img.png);
+    background-image: url(./images/hero_img.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
